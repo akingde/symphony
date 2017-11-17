@@ -2,7 +2,7 @@
     <div class="wrapper ft-smaller">
         <div class="footer-nav">
             <span>&COPY; ${year}</span>
-            <a rel="copyright" href="https://hacpai.com" target="_blank">hacpai.com</a>
+            <a rel="copyright" href="http://www.xxpay.org" target="_blank">聚合支付</a>
             ${visionLabel}
         </div>
         <div class="fn-hr5"></div>
@@ -11,8 +11,7 @@
         </div>
         <div class="fn-hr5"></div>
         <div>
-            <span>Powered by <a href="http://b3log.org" target="_blank">B3log 开源</a> •
-                <a href="https://github.com/b3log/symphony" target="_blank">Sym</a>
+            <span>Powered by <a href="https://github.com/b3log/symphony" target="_blank">Sym</a>
                 ${version} • ${elapsed?c}ms</span>
         </div>
     </div>

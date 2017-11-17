@@ -106,7 +106,7 @@
                 <#if ADLabel != ''>
                 <div class="module">
                     <div class="module-header" style="background-color: #7ea5c8">
-                        <a href="https://hacpai.com/article/1460083956075">${sponsorLabel}</a>
+                        <a href="http://pub.xxpay.org/article/1510881321910">${sponsorLabel}</a>
                     </div>
                     <div class="ad module-panel fn-clear">
                         ${ADLabel}

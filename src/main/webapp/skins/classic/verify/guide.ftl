@@ -103,26 +103,18 @@
                             </ul>
                         </div>
                         <div class="fn-none ft-center">
-                            <a href="https://github.com/b3log/symphony" target="_blank"><img src="${staticServePath}/images/sym-logo300.png" width="180px"></a> <br/> <br/><br/><br/>
-                            <iframe src="https://ghbtns.com/github-btn.html?user=b3log&repo=symphony&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
+                            <#--<a href="https://github.com/b3log/symphony" target="_blank"><img src="${staticServePath}/images/sym-logo300.png" width="180px"></a> <br/> <br/><br/><br/>
+                            <iframe src="https://ghbtns.com/github-btn.html?user=b3log&repo=symphony&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>-->
                         </div>
                         <div class="fn-none list">
                             <div class="ft-center"> <svg><use xlink:href="#logo"></use></svg> </div> <br/>
                             <ul>
                                 <li>
-                                    <a href="${servePath}/about">${getStartLabel}</a>
-                                    <span class="ft-gray">${getStartTipLabel}</span>
-                                </li>
-                                <li>
-                                    <a href="${servePath}/tag/user_guide">${basicLabel}</a>
-                                    <span class="ft-gray">${basicTipLabel}</span>
-                                </li>
-                                <li>
-                                    <a href="https://hacpai.com/article/1474030007391">${hotKeyLabel}</a>
+                                    <a href="http://pub.xxpay.org/article/1510835080024">${hotKeyLabel}</a>
                                     <span class="ft-gray">${hotKeyTipLabel}</span>
                                 </li>
                                 <li>
-                                    <a href="https://hacpai.com/guide/markdown">Markdown ${tutorialLabel}</a>
+                                    <a href="http://pub.xxpay.org/article/1510835373148">Markdown ${tutorialLabel}</a>
                                     <span class="ft-gray">${markdownTutorialTipLabel}</span>
                                 </li>
                             </ul>

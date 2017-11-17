@@ -21,7 +21,7 @@
                                                         </tbody>
                                                     </table>
                                                     <div style="font-size:12px;color:#33ae81">
-                                                        <a href="${servePath}" style="font-weight:bold;color:#333;text-decoration:none" target="_blank">黑客与画家 • 账号</a>
+                                                        <a href="${servePath}" style="font-weight:bold;color:#333;text-decoration:none" target="_blank">XxPay • 账号</a>
                                                     </div>
                                                     <table width="350" cellpadding="0" cellspacing="0" border="0">
                                                         <tbody>
@@ -66,7 +66,7 @@
                             <tr style="border-collapse:collapse">
                                 <td width="640" align="center" bgcolor="#FFFFFF" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif">
                                     <a href="${servePath}" target="_blank">
-                                        <img height="140" width="640" src="${staticServePath}/images/mail/verify-banner1.png" alt="黑客派">
+                                        <img height="140" width="640" src="${staticServePath}/images/mail/verify-banner1.png" alt="XxPay聚合支付">
                                     </a>
                                 </td>
                             </tr>
@@ -90,13 +90,13 @@
                                                                     </div>
                                                                     <div style="border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#eee;margin-bottom:30px"></div>
                                                                     <p align="left" style="font-size:18px;line-height:24px;color:#333;font-weight:bold;margin-top:0px;margin-bottom:18px;font-family:Helvetica,Arial,sans-serif">
-                                                                        黑客与画家
+                                                                        XxPay
                                                                     </p>
                                                                     <div align="left" style="font-size:13px;line-height:20px;color:#444444;margin-top:0px;margin-bottom:18px;font-family:Helvetica,Arial,sans-serif">
                                                                         <table>
                                                                             <tbody><tr style="border-collapse:collapse">
                                                                                     <td style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;padding:0 0 15px">
-                                                                                        我们正在构建一个活跃的小众社区。大家在这里相互 信任 ，以 平等 • 自由 • 奔放 的价值观进行分享交流。
+                                                                                        我们正在构建一个聚合支付的小众社区。大家在这里相互 信任 ，以 平等 • 自由 • 奔放 的价值观进行分享交流。
                                                                                         <ul>
                                                                                             <li>分享自己见解的同时请对他人保持友善</li>
                                                                                             <li>帖子和回帖都可以修改，每次修改都会留下版本记录</li>
@@ -107,7 +107,7 @@
                                                                                         </ul>
                                                                                         希望大家能够找找到与自己志同道合的伙伴，共同成长。
                                                                                     </td>
-                                                                                </tr>                                                        
+                                                                                </tr>
                                                                             </tbody></table>
                                                                     </div>
                                                                 </td>
@@ -141,17 +141,13 @@
                                                     <span>
                                                         <p align="left" style="font-size:12px;line-height:15px;color:#666666;margin-top:0px;margin-bottom:5px;white-space:normal">
                                                             <span>
-                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a> 
+                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a>
                                                                 <span style="color:#999">•</span>
-                                                                <a href="${servePath}/article/1457158841475" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">API</a>
+                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a>
                                                                 <span style="color:#999">•</span>
-                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a> 
+                                                                <a href="${servePath}/hot" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">热门</a>
                                                                 <span style="color:#999">•</span>
-                                                                <a href="${servePath}/hot" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">热门</a> 
-                                                                <span style="color:#999">•</span>
-                                                                <a href="${servePath}/forge/link" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">链接熔炉</a> 
-                                                                <span style="color:#999">•</span>
-                                                                <a href="${servePath}/article/1460083956075" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">广告投放</a>
+                                                                <a href="${servePath}/forge/link" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">链接熔炉</a>
                                                             </span>
                                                         </p>
                                                     </span>
@@ -161,7 +157,7 @@
                                                 </td>
                                                 <td width="40" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif"></td>
                                                 <td width="180" valign="top" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif">
-                                                    <p align="right" style="font-size:12px;line-height:18px;color:#999;margin-top:0px;margin-bottom:15px;white-space:normal"><span>© 2016 <a href="${servePath}" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">hacpai.com</a> <span style="color:#333;">黑客与画家</span></span><br style="line-height:100%"><span style="font-size:12px;color:#ccc;">Feel easy about trust.</span></p>
+                                                    <p align="right" style="font-size:12px;line-height:18px;color:#999;margin-top:0px;margin-bottom:15px;white-space:normal"><span>© 2017 <a href="${servePath}" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">聚合支付</a> <span style="color:#333;">XxPay</span></span><br style="line-height:100%"><span style="font-size:12px;color:#ccc;">Feel easy about trust.</span></p>
                                                 </td>
                                                 <td width="30" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif"></td>
                                             </tr>

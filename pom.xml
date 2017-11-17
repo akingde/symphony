@@ -13,7 +13,7 @@
     <artifactId>symphony</artifactId>
     <packaging>war</packaging>
     <version>2.2.0</version>
-    <name>Symphony</name>
+    <name>xxpay_pub</name>
     <url>https://github.com/b3log/symphony</url>
     <description>
         Sym Community: https://hacpai.com/about
@@ -377,7 +377,7 @@
                     <encoding>UTF-8</encoding>
                 </configuration>
                 <executions>
-                    <!-- 
+                    <!--
                     eclipse sucks!!
                     <execution>
                         <phase>generate-resources</phase>
@@ -409,7 +409,7 @@
 
         </plugins>
 
-        <finalName>symphony</finalName>
+        <finalName>xxpay-pub</finalName>
     </build>
 
     <profiles>

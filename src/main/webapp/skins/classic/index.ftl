@@ -211,13 +211,13 @@
                     <div class="metro-line fn-flex">
                         <div class="metro-item">
                             <!-- ${ADLabel} -->
-                            <a class="preview" href="https://hacpai.com/man">
+                            <a class="preview" href="http://www.xxpay.org/dev/source.html">
                                 <img width="44px" src="${staticServePath}/images/tags/shell.png" alt="${sponsorLabel}">
-                                <b>Hacker's Manual</b>
+                                <b>XxPay聚合支付源码</b>
                             </a>
                         </div>
                         <div class="metro-item last">
-                            <a class="preview" href="https://hacpai.com/article/1460083956075">
+                            <a class="preview" href="http://pub.xxpay.org/article/1510881321910">
                                 <img width="44px" src="${staticServePath}/emoji/graphics/heart.png" alt="${sponsorLabel}">
                                 <b>${adDeliveryLabel}</b>
                             </a>

@@ -5,6 +5,7 @@
         </a>
     </h1>
     <div class="nav-tabs">
+        <a href="http://www.xxpay.org" target="_blank">XxPay首页</a>
         <#list domains as domain>
         <a pjax-title="${domain.domainTitle} - ${domainLabel} - ${symphonyLabel}" href="${servePath}/domain/${domain.domainURI}"<#if selected?? && selected == domain.domainURI> class="current"</#if>>${domain.domainIconPath} ${domain.domainTitle}</a>
         </#list>
@@ -18,8 +19,6 @@
         </#if>
         <a href="${servePath}/timeline"<#if selected?? && 'timeline' == selected> class="current"</#if>>
            <svg><use xlink:href="#view"></use></svg> ${timelineLabel}</a>
-        <a href="https://hacpai.com/tag/book_share"<#if selected?? && 'book' == selected> class="current"</#if>>
-           <svg><use xlink:href="#book"></use></svg> ${bookShareLabel}</a>
     </div>
     <#if esEnabled || algoliaEnabled>
     <form class="responsive-hide fn-left" target="_blank" action="/search">

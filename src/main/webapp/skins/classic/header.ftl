@@ -5,7 +5,7 @@
         </a>
     </h1>
     <div class="nav-tabs">
-        <a href="http://www.xxpay.org" target="_blank">XxPay首页</a>
+        <a href="${servePath}" >社区首页</a>
         <#list domains as domain>
         <a pjax-title="${domain.domainTitle} - ${domainLabel} - ${symphonyLabel}" href="${servePath}/domain/${domain.domainURI}"<#if selected?? && selected == domain.domainURI> class="current"</#if>>${domain.domainIconPath} ${domain.domainTitle}</a>
         </#list>

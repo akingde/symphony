@@ -83,3 +83,12 @@
     Util.initSearch('${algoliaAppId}', '${algoliaSearchKey}', '${algoliaIndex}');
 </script>
 </#if>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?6eec2e6fca21065ff3d18e9330112423";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>

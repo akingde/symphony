@@ -417,9 +417,9 @@
         </#if>
 
         <#if discussionViewable>
-        <span class="tooltipped tooltipped-w radio-btn" onclick="Comment._toggleReply()"
+        <span class="radio-btn" onclick="Comment._toggleReply()"
               data-hasPermission="${permissions['commonAddComment'].permissionGrant?c}"
-              aria-label="${cmtLabel}"><svg class="icon-reply"><use xlink:href="#reply"></use></svg></span>
+              aria-label="${cmtLabel}">回帖</span>
         </#if>
 
         <#if isLoggedIn && discussionViewable && article.articleCommentable>
